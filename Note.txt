@@ -1,0 +1,51 @@
+                          // ================== CSS ================//
+
+CSS  :-
+---
+        - Cascading Style Sheet
+        - It is a language that is used to describe the style of a document.
+
+Basic Syntax :-
+------------
+                   |-(Selector)
+                  h1{
+                      color:red; -(Value)
+                  }    |
+                    (Propert)
+
+Including Style :-
+--------------
+            1. Inline 
+                    - <h1 style="color:red"> Hello Coder</h1>
+
+            2. <style> tag 
+                    - <style>
+                            h1{
+                                color:red;
+                            }
+                     </style>
+
+            3. External Stylesheet
+                                - Writing CSS in a seprate document & linking it with HTML file.
+                                - To link Stylesheet
+                                             - <link rel="stylesheet" href="fileName">
+
+Color Property :-
+--------------
+            - Used to set the color of foreground.
+                                                - color:red;
+
+Background Color Property :-
+--------------------------
+                            - Used to set the color of background.
+                                                                - background-color:pink;
+
+Color Systems :-
+-------------
+            1. RGB
+                - color:rgb(255,0,0);
+
+            2. Hex (Hexadecimal)
+                        - color:#ff0000;
+
+            
