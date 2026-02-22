@@ -48,4 +48,32 @@ Color Systems :-
             2. Hex (Hexadecimal)
                         - color:#ff0000;
 
-            
+
+Selector :-
+--------
+
+        1. Universal Selector
+                        - *{}   [to select all thing in document]
+
+        2. Element Selector 
+                        - h1{}  [to select particular Element]
+
+        3. Id Selector 
+                    - myId{}  [to select by Id]
+
+        4 Class Selector
+                        - .myClass{}  [to select by Class]
+
+Text Property :-
+-------------
+            1. text-align
+            2. text-decoration
+            3. font-weight
+            4. font-family
+            5. text-transform
+
+Units in CSS :-
+-----------
+        - Absolute 
+                pixels(px)
+
